@@ -86,7 +86,7 @@ TransitX supports the United Nations Sustainable Development Goals:
 
 ## 🔓 Accessing the Code
 
-To request access to the source code of TransitX, please contact me via *[LinkedIn](https://www.linkedin.com/in/yessinehakim/)*. I’ll be happy to discuss the project and share the code upon request.
+To request access to the source code of TransitX, please contact me via *[LinkedIn](https://www.linkedin.com/in/edamhakim/)*. I’ll be happy to discuss the project and share the code upon request.
 
 ---
 
