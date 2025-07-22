@@ -3,7 +3,7 @@
 # 🚍 TransitX – Sustainable Mobility Platform
 
 <p align="center">
-  <img src="./logo.jpeg" alt="TransitX Logo" width="220"/>
+  <img src="./TransitX logo.png" alt="TransitX Logo" width="220"/>
 </p>
 
 <p align="center">
